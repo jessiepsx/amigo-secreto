@@ -51,3 +51,7 @@ Com este projeto, foi possível praticar:
 
 ---
 
+## 📬 Contato
+
+- 💻 GitHub: [@jessiepsx](https://github.com/jessiepsx)
+- 🔗 LinkedIn: [Jéssica Pereira](https://www.linkedin.com/in/jéssica-pereira-bb1202265)
